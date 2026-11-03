@@ -1,14 +1,10 @@
 <div align="center">
 
-# Amir
-
-### Security Engineer · Java & Distributed Systems · Resilience
+<img src="./assets/profile-hero.svg" alt="Amir — Security Engineer focused on Java, distributed systems, and resilience" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Amir032--cyber-181717?style=flat-square&logo=github)](https://github.com/Amir032-cyber)
 [![Location](https://img.shields.io/badge/Location-Burkina%20Faso-0f766e?style=flat-square)](https://github.com/Amir032-cyber)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Advocate-2563eb?style=flat-square)](https://github.com/Amir032-cyber)
-
-> `build systems that stay useful when everything around them gets noisy`
 
 </div>
 
