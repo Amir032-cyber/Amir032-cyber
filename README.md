@@ -178,6 +178,35 @@ No public certifications have been provided yet. Verified credentials will be ad
 
 </div>
 
+## Latest writing & contributions
+
+<details open>
+<summary><strong>Explore my live GitHub activity</strong></summary>
+
+<br />
+
+<a href="https://github.com/Amir032-cyber?tab=overview"><img src="https://img.shields.io/badge/Profile-Overview-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile overview" /></a>
+<a href="https://github.com/Amir032-cyber?tab=repositories"><img src="https://img.shields.io/github/repos/Amir032-cyber?style=for-the-badge&logo=github&logoColor=white&label=Repositories" alt="Public repositories" /></a>
+<a href="https://github.com/Amir032-cyber?tab=projects"><img src="https://img.shields.io/badge/Projects-Open-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+<a href="https://github.com/Amir032-cyber?tab=stars"><img src="https://img.shields.io/badge/Stars-Explore-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Starred repositories" /></a>
+
+<br />
+
+<a href="https://github.com/Amir032-cyber/lam-code/commits/main"><img src="https://img.shields.io/badge/LAM--Code-Recent%20commits-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Recent LAM-Code commits" /></a>
+<a href="https://github.com/Amir032-cyber/AI-Optimized-Massive-Scale-CI-CD/commits/main"><img src="https://img.shields.io/badge/Predictive%20CI%2FCD-Recent%20commits-3776AB?style=flat-square&logo=python&logoColor=white" alt="Recent predictive CI/CD commits" /></a>
+<a href="https://github.com/Amir032-cyber/aether-framework/commits/Master"><img src="https://img.shields.io/badge/AETHER-Recent%20commits-000000?style=flat-square&logo=rust&logoColor=white" alt="Recent AETHER commits" /></a>
+
+</details>
+
+<details>
+<summary><strong>Articles and technical writing</strong></summary>
+
+<br />
+
+No public blog URL has been listed yet. For now, follow my [LinkedIn profile](https://www.linkedin.com/in/lamine-traor%C3%A9-4b1aa4338) for professional updates and future technical articles. Blog posts can be added here as they are published.
+
+</details>
+
 ## Contact & feed
 
 - **GitHub:** [@Amir032-cyber](https://github.com/Amir032-cyber)
