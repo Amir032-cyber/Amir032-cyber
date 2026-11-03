@@ -38,6 +38,90 @@ My current focus is the intersection of security engineering, AI-assisted develo
 - **Docker & cloud-native tooling** — reproducible environments and deployment workflows.
 - **gRPC** — communication between modular services and security components.
 
+### Preferred technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+## Featured repositories
+
+<div align="center">
+
+<a href="https://github.com/Amir032-cyber/lam-code"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir032-cyber&repo=lam-code&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b&icon_color=0f766e" alt="LAM-Code repository card" /></a>
+<a href="https://github.com/Amir032-cyber/AI-Optimized-Massive-Scale-CI-CD"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir032-cyber&repo=AI-Optimized-Massive-Scale-CI-CD&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b&icon_color=0f766e" alt="Predictive CI/CD repository card" /></a>
+
+<br />
+
+<a href="https://github.com/Amir032-cyber/aether-framework"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir032-cyber&repo=aether-framework&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b&icon_color=0f766e" alt="AETHER Framework repository card" /></a>
+<a href="https://github.com/Amir032-cyber/TOUCH-LAM32"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir032-cyber&repo=TOUCH-LAM32&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b&icon_color=0f766e" alt="TOUCH-LAM32 repository card" /></a>
+
+</div>
+
+## Languages and ecosystems
+
+The badges below represent languages and ecosystems present in my projects, experiments, tooling interests, or broader engineering roadmap. They are a transparent technology map—not a claim of equal professional mastery across every item.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" alt="Perl" />
+  <img src="https://img.shields.io/badge/Haskell-5E5086?style=flat-square&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir" />
+  <img src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white" alt="Erlang" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white" alt="Clojure" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" alt="Groovy" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Move-4F46E5?style=flat-square&logoColor=white" alt="Move" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black" alt="Zig" />
+  <img src="https://img.shields.io/badge/Nim-FFE953?style=flat-square&logo=nim&logoColor=black" alt="Nim" />
+  <img src="https://img.shields.io/badge/Crystal-000000?style=flat-square&logo=crystal&logoColor=white" alt="Crystal" />
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white" alt="OCaml" />
+  <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" alt="Fortran" />
+  <img src="https://img.shields.io/badge/COBOL-005CA5?style=flat-square&logoColor=white" alt="COBOL" />
+  <img src="https://img.shields.io/badge/Lisp-3FB68B?style=flat-square&logoColor=white" alt="Lisp" />
+  <img src="https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logoColor=white" alt="Prolog" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Verilog-1A237E?style=flat-square&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" alt="Objective-C" />
+  <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Visual Basic" />
+  <img src="https://img.shields.io/badge/Ada-02F88C?style=flat-square&logoColor=black" alt="Ada" />
+  <img src="https://img.shields.io/badge/D-BA595E?style=flat-square&logo=d&logoColor=white" alt="D" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
 ## Security and resilience, specifically
 
 - Designing software around failure isolation, graceful degradation, and recovery paths.
