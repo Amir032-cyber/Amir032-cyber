@@ -130,6 +130,28 @@ The badges below represent languages and ecosystems present in my projects, expe
 - Treating observability, repeatability, and operational clarity as part of the product—not as afterthoughts.
 - Learning by turning difficult concepts into documented, runnable experiments.
 
+## Cybersecurity skills
+
+<p>
+  <img src="https://img.shields.io/badge/Application%20Security-8B5CF6?style=flat-square&logo=owasp&logoColor=white" alt="Application Security" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-DC2626?style=flat-square&logo=kalilinux&logoColor=white" alt="Penetration Testing" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-0EA5E9?style=flat-square&logo=icloud&logoColor=white" alt="Cloud Security" />
+  <img src="https://img.shields.io/badge/DevSecOps-16A34A?style=flat-square&logo=githubactions&logoColor=white" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-F97316?style=flat-square&logoColor=white" alt="Threat Modeling" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-2563EB?style=flat-square&logo=apachekafka&logoColor=white" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Resilience%20Engineering-0F766E?style=flat-square&logoColor=white" alt="Resilience Engineering" />
+</p>
+
+- **Security tooling:** building and exploring modular pentesting systems with Rust cores, service modules, web interfaces, and CLI workflows.
+- **Application and API security:** thinking about service boundaries, remote-system access, isolation, and failure behavior.
+- **Cloud-native security:** working with Docker, Kubernetes, gRPC, serverless components, and infrastructure-oriented project structures.
+- **Secure delivery:** applying machine learning and automation to CI/CD workflows, test selection, auditability, and feedback loops.
+- **Resilient architecture:** using fault isolation, graceful degradation, recovery paths, and operational visibility as security-adjacent engineering principles.
+
+## Certifications
+
+No public certifications have been provided yet. Verified credentials will be added here with their issuing organization, date, credential ID, and verification link.
+
 ## Selected projects
 
 - **[LAM-Code](https://github.com/Amir032-cyber/lam-code)**: An agentic development platform for Web, Windows, and Android, built as a TypeScript-based product with a structured application codebase.
