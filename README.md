@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Amir032--cyber-181717?style=flat-square&logo=github)](https://github.com/Amir032-cyber)
 [![Location](https://img.shields.io/badge/Location-Burkina%20Faso-0f766e?style=flat-square)](https://github.com/Amir032-cyber)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Advocate-2563eb?style=flat-square)](https://github.com/Amir032-cyber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-traor%C3%A9-4b1aa4338)
 
 </div>
 
@@ -180,6 +181,7 @@ No public certifications have been provided yet. Verified credentials will be ad
 ## Contact & feed
 
 - **GitHub:** [@Amir032-cyber](https://github.com/Amir032-cyber)
+- **LinkedIn:** [Lamine Traoré](https://www.linkedin.com/in/lamine-traor%C3%A9-4b1aa4338)
 - **Facebook:** [Profile](https://www.facebook.com/profile.php?id=61567185668778)
 - **Organization:** Digital Leaders Academy Ltd
 - **Location:** Burkina Faso
