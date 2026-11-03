@@ -62,9 +62,21 @@ My current focus is the intersection of security engineering, AI-assisted develo
 <a href="https://github.com/Amir032-cyber/aether-framework"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir032-cyber&repo=aether-framework&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b&icon_color=0f766e" alt="AETHER Framework repository card" /></a>
 <a href="https://github.com/Amir032-cyber/TOUCH-LAM32"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir032-cyber&repo=TOUCH-LAM32&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b&icon_color=0f766e" alt="TOUCH-LAM32 repository card" /></a>
 
+<br />
+
+<a href="https://github.com/Amir032-cyber/Hystrix"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir032-cyber&repo=Hystrix&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b&icon_color=0f766e" alt="Hystrix repository card" /></a>
+<a href="https://github.com/Amir032-cyber/cashapp-ong-bf"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Amir032-cyber&repo=cashapp-ong-bf&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b&icon_color=0f766e" alt="CashApp ONG BF repository card" /></a>
+
 </div>
 
-**Direct links:** [LAM-Code](https://github.com/Amir032-cyber/lam-code) · [Predictive CI/CD](https://github.com/Amir032-cyber/AI-Optimized-Massive-Scale-CI-CD) · [AETHER Framework](https://github.com/Amir032-cyber/aether-framework) · [TOUCH-LAM32](https://github.com/Amir032-cyber/TOUCH-LAM32) · [CashApp ONG BF](https://github.com/Amir032-cyber/cashapp-ong-bf)
+**Direct links:** [LAM-Code](https://github.com/Amir032-cyber/lam-code) · [Predictive CI/CD](https://github.com/Amir032-cyber/AI-Optimized-Massive-Scale-CI-CD) · [AETHER Framework](https://github.com/Amir032-cyber/aether-framework) · [TOUCH-LAM32](https://github.com/Amir032-cyber/TOUCH-LAM32) · [Hystrix](https://github.com/Amir032-cyber/Hystrix) · [CashApp ONG BF](https://github.com/Amir032-cyber/cashapp-ong-bf)
+
+<p>
+  <a href="https://github.com/Amir032-cyber/lam-code"><img src="https://img.shields.io/github/last-commit/Amir032-cyber/lam-code?style=flat-square&label=LAM-Code%20updated" alt="LAM-Code last commit" /></a>
+  <a href="https://github.com/Amir032-cyber/aether-framework"><img src="https://img.shields.io/github/stars/Amir032-cyber/aether-framework?style=flat-square&label=AETHER%20stars" alt="AETHER Framework stars" /></a>
+  <a href="https://github.com/Amir032-cyber/AI-Optimized-Massive-Scale-CI-CD"><img src="https://img.shields.io/github/commit-activity/m/Amir032-cyber/AI-Optimized-Massive-Scale-CI-CD?style=flat-square&label=Predictive%20CI%2FCD%20commits" alt="Predictive CI/CD monthly commit activity" /></a>
+  <a href="https://github.com/Amir032-cyber/Hystrix"><img src="https://img.shields.io/github/languages/top/Amir032-cyber/Hystrix?style=flat-square&label=Hystrix%20language" alt="Hystrix primary language" /></a>
+</p>
 
 ## Languages and ecosystems
 
