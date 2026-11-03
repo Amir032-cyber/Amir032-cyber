@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Amir — Security Engineer focused on Java, distributed systems, and resilience" width="100%" />
+<img src="./assets/profile-hero-animated.svg" alt="Amir — Security Engineer focused on Java, distributed systems, and resilience" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Amir032--cyber-181717?style=flat-square&logo=github)](https://github.com/Amir032-cyber)
 [![Location](https://img.shields.io/badge/Location-Burkina%20Faso-0f766e?style=flat-square)](https://github.com/Amir032-cyber)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Advocate-2563eb?style=flat-square)](https://github.com/Amir032-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-traor%C3%A9-4b1aa4338)
+[![Profile views](https://komarev.com/ghpvc/?username=Amir032-cyber&style=flat-square&color=22D3EE&label=Profile%20views)](https://github.com/Amir032-cyber)
 
 </div>
 
@@ -170,11 +171,20 @@ No public certifications have been provided yet. Verified credentials will be ad
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amir032-cyber&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=2563eb&icon_color=0f766e&text_color=64748b" alt="Amir's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir032-cyber&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=2563eb&text_color=64748b" alt="Amir's most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir032-cyber&layout=compact&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5&theme=transparent&title_color=2563eb&text_color=64748b" alt="Amir's most used languages" />
 
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir032-cyber&hide_border=true&area=true&bg_color=ffffff00&color=2563eb&line=0f766e&point=2563eb&custom_title=Contribution%20activity" alt="Amir's GitHub contribution activity graph" />
+
+</div>
+
+## Detailed language statistics
+
+<div align="center">
+
+<img height="260" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amir032-cyber&theme=github_dark" alt="Languages by repository" />
+<img height="260" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amir032-cyber&theme=github_dark" alt="Languages by commits" />
 
 </div>
 
@@ -216,7 +226,5 @@ No public blog URL has been listed yet. For now, follow my [LinkedIn profile](ht
 - **Location:** Burkina Faso
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Amir032-cyber&style=flat-square&color=2563eb)
 
 </div>
