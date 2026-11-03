@@ -64,6 +64,8 @@ My current focus is the intersection of security engineering, AI-assisted develo
 
 </div>
 
+**Direct links:** [LAM-Code](https://github.com/Amir032-cyber/lam-code) · [Predictive CI/CD](https://github.com/Amir032-cyber/AI-Optimized-Massive-Scale-CI-CD) · [AETHER Framework](https://github.com/Amir032-cyber/aether-framework) · [TOUCH-LAM32](https://github.com/Amir032-cyber/TOUCH-LAM32) · [CashApp ONG BF](https://github.com/Amir032-cyber/cashapp-ong-bf)
+
 ## Languages and ecosystems
 
 The badges below represent languages and ecosystems present in my projects, experiments, tooling interests, or broader engineering roadmap. They are a transparent technology map—not a claim of equal professional mastery across every item.
