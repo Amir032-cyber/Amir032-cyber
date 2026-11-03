@@ -62,6 +62,19 @@ My current focus is the intersection of security engineering, AI-assisted develo
 - **Keep learning in public.** Open source turns implementation details into feedback, context, and shared knowledge.
 - **Build with purpose.** Security and resilience should improve the experience of the people who depend on the system.
 
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amir032-cyber&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=2563eb&icon_color=0f766e&text_color=64748b" alt="Amir's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir032-cyber&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=2563eb&text_color=64748b" alt="Amir's most used languages" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir032-cyber&hide_border=true&area=true&bg_color=ffffff00&color=2563eb&line=0f766e&point=2563eb&custom_title=Contribution%20activity" alt="Amir's GitHub contribution activity graph" />
+
+</div>
+
 ## Contact & feed
 
 - **GitHub:** [@Amir032-cyber](https://github.com/Amir032-cyber)
